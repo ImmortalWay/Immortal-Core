@@ -8,7 +8,7 @@
   "url": "https://github.com/ImmortalWay/Packs/",
   "media": {
     "new": [{
-      "id": "ImmortalCore",
+      "id": "immortal-core",
       "title": {
         "english": "Media"
       },
@@ -18,7 +18,7 @@
   },
   "characters": {
     "new": [{
-      "id": "Template",
+      "id": "template",
       "name": {"english": "Template"},
       "gender": "Stick Figure",
       "popularity": 1000,
