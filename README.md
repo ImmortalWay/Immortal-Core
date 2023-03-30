@@ -1,4 +1,4 @@
-# Note:Each pack is its own branch of the repository.
+# Note: Each pack is its own branch of the repository.
 ## Fable Packs: 
 :gear:**Immortal-Core is required for all packs.**:gear:
 
