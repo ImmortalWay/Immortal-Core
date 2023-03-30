@@ -2,7 +2,7 @@
   "$schema": "https://fable.deno.dev/schema.json",
   "id": "immortalpack1",
   "title": "Immortal-Core",
-  "description": "**Required core for Immortal packs.**",
+  "description": "**Latest Change:** \n\ Core for all Immortal Packs.\n\\n\  **Version 1:**Foundations**",
   "author": "Immortal",
   "image": "",
   "url": "https://github.com/ImmortalWay/Packs/",
@@ -10,9 +10,13 @@
     "new": [{
       "id": "immortal-core",
       "title": {
-        "english": "Immortal-Core"
+        "english": "Immortal-Core",
+          "externalLinks": [{
+        "site": "YouTube",
+        "url": "https://www.youtube.com/@example"
+      }]
       },
-      "description": "Core Pack for Immortal's OCs.",
+      "description": "Core for Immortal OC Packs.",
       "type": "ANIME",
       "format": "ONA"
     }]
