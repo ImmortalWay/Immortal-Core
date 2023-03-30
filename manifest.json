@@ -1,19 +1,20 @@
 {
-    "$schema": "https://fable.deno.dev/schema.json",
-    "id": "immortalpack1",
-    "title": "OC Expansion 1",
-    "description": "Character expansion pack.",
-    "author": "Immortal",
-    "image": "",
-    "url": "https://github.com/ImmortalWay/Packs/",
-    "characters": {
-        "new": [{
-            "id": "test",
-            name: {english: "test"}
-            "gender": "test",
-            "popularity": 1000,
-            "description": "Test.",
-            "url": "https://i.imgur.com/1iYCAvl.png"
-        }]
-    }
+  "$schema": "https://fable.deno.dev/schema.json",
+  "id": "immortalpack1",
+  "title": "OC Expansion 1",
+  "description": "Character expansion pack.",
+  "author": "Immortal",
+  "image": "",
+  "url": "https://github.com/ImmortalWay/Packs/",
+  "characters": {
+      "new": [{
+          "id": "test",
+          "name": 
+          {"english": "test"}
+          "gender": "test",
+          "popularity": 1000,
+          "description": "Test.",
+          "url": "https://i.imgur.com/1iYCAvl.png"
+      }]
+  }
 }
