@@ -15,7 +15,7 @@
             "gender": "test",
             "popularity": 1000,
             "description": "Test.",
-            <!--"url": ""-->
+            "url": ""
         }]
     }
 }
