@@ -2,7 +2,7 @@
   "$schema": "https://fable.deno.dev/schema.json",
   "id": "immortalpack1",
   "title": "Immortal-Core (V.01)",
-  "description": "**Immortal Pack Core (V.01)**\\n\\n**Latest Change:** Foundational error fixes.\\n\\n**Cool packs you should check out:**\\n\\nhttps://github.com/fable-community/fable-pack-example by **ker0olos**\\nhttps://github.com/fable-community/fable-pack-utawarerumono by **ker0olos**",
+  "description": "**Immortal Pack Core (V.01)**\n\n**Latest Change:** Foundational error fixes.\n\n**Cool packs you should check out:**\n\n https://github.com/fable-community/fable-pack-example by **ker0olos**\n\n https://github.com/fable-community/fable-pack-utawarerumono by **ker0olos**",
   "author": "Immortal",
   "image": "https://i.imgur.com/2U27yZ0.png",
   "url": "https://github.com/ImmortalWay/Packs/",
@@ -33,7 +33,7 @@
         },
         "gender": "Stick Figure",
         "popularity": 1000,
-        "description": "**Character:** Template\\n\\n**Pack:** Immortal-Core (V.01)",
+        "description": "**Character:** Template\n\n**Pack:** Immortal-Core (V.01)",
         "images": [
           {
             "url": "https://i.imgur.com/1iYCAvl.png"
