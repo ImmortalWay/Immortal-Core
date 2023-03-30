@@ -1,1 +1,21 @@
-
+{
+"$schema": "https://fable.deno.dev/schema.json",
+{
+"id": "ImmortalPack1",
+"title": "OC Expansion 1",
+  "description": "Character expansion pack.",
+  "author": "Immortal",
+  "image": "",
+  "url": "https://github.com/ImmortalWay/Packs/",
+},
+"characters": {
+  "new": [{
+    "id": "Test",
+    "name": "Test.",
+    "gender": "Test",
+    "popularity": "1000",
+    "description": "Test.",
+      "url": ""
+    }]
+  }
+}
