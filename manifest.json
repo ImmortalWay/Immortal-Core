@@ -9,11 +9,11 @@
     "characters": {
         "new": [{
             "id": "test",
-            "name": "Test.",
+            name: {english: "test"}
             "gender": "test",
             "popularity": 1000,
             "description": "Test.",
-            "url": ""
+            <!--"url": ""-->
         }]
     }
 }
