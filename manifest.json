@@ -13,15 +13,17 @@
         "english": "Media"
       },
       "description": "Core for Immortal's OCs.",
-      "type": "ANIME",
+      "type": "ANIME"
+    }]
+  },
   "characters": {
-      "new": [{
-          "id": "Template",
-          "name": 
-          {"english": "Template"}
-          ,"gender": "Stick Figure",
-          "popularity": 1000,
-          "description": "Character #1: Template (Immortal's Expansion Pack.)",
-        "images": [{"url": "https://i.imgur.com/1iYCAvl.png"}]
+    "new": [{
+      "id": "Template",
+      "name": {"english": "Template"},
+      "gender": "Stick Figure",
+      "popularity": 1000,
+      "description": "Character #1: Template (Immortal's Expansion Pack.)",
+      "images": [{"url": "https://i.imgur.com/1iYCAvl.png"}]
+    }]
   }
 }
