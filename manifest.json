@@ -6,14 +6,22 @@
   "author": "Immortal",
   "image": "",
   "url": "https://github.com/ImmortalWay/Packs/",
+  "media": {
+    "new": [{
+      "id": "ImmortalCore",
+      "title": {
+        "english": "Media"
+      },
+      "description": "Core for Immortal's OCs.",
+      "type": "ANIME",
   "characters": {
       "new": [{
-          "id": "test",
+          "id": "Template",
           "name": 
-          {"english": "test"}
-          ,"gender": "test",
+          {"english": "Template"}
+          ,"gender": "Stick Figure",
           "popularity": 1000,
-          "description": "Test.",
+          "description": "Character #1: Template (Immortal's Expansion Pack.)",
         "images": [{"url": "https://i.imgur.com/1iYCAvl.png"}]
   }
 }
