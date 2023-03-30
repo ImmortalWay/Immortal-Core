@@ -11,7 +11,7 @@
             "id": "test",
             "name": "Test.",
             "gender": "test",
-            "popularity": "1000",
+            "popularity": 1000,
             "description": "Test.",
             "url": ""
         }]
