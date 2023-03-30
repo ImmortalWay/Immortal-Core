@@ -2,7 +2,7 @@
   "$schema": "https://fable.deno.dev/schema.json",
   "id": "immortalcore",
   "title": "Immortal Pack (Core)",
-  "description": "**Core pack required for all of Immortal's packs.**",
+  "description": "Core pack required for all of Immortal's packs.",
   "author": "Immortal",
   "image": "",
   "url": "https://github.com/ImmortalWay/Packs/",
@@ -21,7 +21,7 @@
       "name": {"english": "Template"},
       "gender": "Stick Figure",
       "popularity": 1000,
-      "description": "**Character #1:** Template (Immortal's Expansion Pack.)",
+      "description": "Character #1: Template (Immortal-Core)",
       "images": [{"url": "https://i.imgur.com/1iYCAvl.png"}]
     }]
   }
