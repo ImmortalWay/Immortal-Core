@@ -6,19 +6,16 @@
   "author": "Immortal",
   "image": "",
   "url": "https://github.com/ImmortalWay/Packs/",
-  "media": {
+   "media": {
     "new": [{
       "id": "immortal-core",
       "title": {
         "english": "Immortal-Core",
       },
-      "externalLinks": [{
-        "site": "YouTube",
-        "url": "https://www.youtube.com/@example"
-      }],
       "description": "Core for Immortal OC Packs.",
       "type": "ANIME",
-      "format": "ONA"
+      "format": "ONA",
+      "images": [{"url": "https://i.imgur.com/1iYCAvl.png"}]
     }]
   },
   "characters": {
