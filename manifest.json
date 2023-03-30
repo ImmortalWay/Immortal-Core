@@ -9,9 +9,7 @@
     "characters": {
         "new": [{
             "id": "test",
-            name: {
-                english: "test"
-            }
+            name: {english: "test"}
             "gender": "test",
             "popularity": 1000,
             "description": "Test.",
