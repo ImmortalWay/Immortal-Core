@@ -1,9 +1,9 @@
 {
   "$schema": "https://fable.deno.dev/schema.json",
   "id": "immortalpack1",
-  "title": "Immortal-Core (V.01)",
-  "description": "**Immortal Pack Core (V.01)**\n\n**Latest Change:** Foundational error fixes.\n\n**Cool packs you should check out:**\n\n https://github.com/fable-community/fable-pack-example by **ker0olos**\n\n https://github.com/fable-community/fable-pack-utawarerumono by **ker0olos**",
-  "author": "Immortal",
+  "title": "**Immortal-Core (V.01)**",
+  "description": "**Core for Immortal Packs, includes: **1** character.**\n\n**Latest Change:** Foundational error fixes.\n\n**Cool packs you should check out:**\n\n https://github.com/fable-community/fable-pack-example\n\n by **ker0olos**\n\n https://github.com/fable-community/fable-pack-utawarerumono\n\n by **ker0olos**",
+  "author": "Pack by: Immortal",
   "image": "https://i.imgur.com/2U27yZ0.png",
   "url": "https://github.com/ImmortalWay/Packs/",
   "media": {
@@ -11,7 +11,7 @@
       {
         "id": "immortal-core",
         "title": {
-          "english": "Immortal-Core"
+          "english": "Immortal-Core (V.01)"
         },
         "description": "Immortal-Core (V.01) for Packs.",
         "type": "ANIME",
@@ -29,11 +29,11 @@
       {
         "id": "template",
         "name": {
-          "english": "Template"
+          "english": "**Template**"
         },
-        "gender": "Stick Figure",
+        "gender": "Undetermined",
         "popularity": 1000,
-        "description": "**Character:** Template\n\n**Pack:** Immortal-Core (V.01)",
+        "description": "*A stick figure*\n\n**Pack:** Immortal-Core (V.01)",
         "images": [
           {
             "url": "https://i.imgur.com/1iYCAvl.png"
