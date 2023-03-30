@@ -1,6 +1,6 @@
 {
   "$schema": "https://fable.deno.dev/schema.json",
-  "id": "immortalcore",
+  "id": "immortal_core",
   "title": "Immortal Pack (Core)",
   "description": "Core pack required for all of Immortal's packs.",
   "author": "Immortal",
@@ -10,9 +10,10 @@
     "new": [{
       "id": "immortal-core",
       "title": {
-        "english": "Immortal-Core"},
+        "english": "Immortal-Core"
+      },
       "description": "Core Pack for Immortal's OCs.",
-      "type": "Manga",
+      "type": "ANIME",
       "format": "ONA"
     }]
   },
