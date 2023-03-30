@@ -15,7 +15,7 @@
       "description": "Immortal OC Pack Core.",
       "type": "ANIME",
       "format": "ONA",
-      "images": [{"url": "https://imgur.com/9c44694b-517b-4637-bd23-0f2d318939f6"}]
+      "images": [{"url": "https://i.imgur.com/2U27yZ0.png"}]
     }]
   },
   "characters": {
@@ -24,8 +24,7 @@
       "name": {"english": "Template"},
       "gender": "Stick Figure",
       "popularity": 1000,
-      "description": "**Character #1:** Template (Immortal-Core)\n\
-**Added in V.01**",
+      "description": "**Character #1:** Template (Immortal-Core)\n\**Added in V.01**",
       "images": [{"url": "https://i.imgur.com/1iYCAvl.png"}]
     }]
   }
