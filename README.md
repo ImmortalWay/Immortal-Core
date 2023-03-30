@@ -1,4 +1,4 @@
 # Packs
-Community packs made for Fable (Respository here: https://github.com/ker0olos/fable).)
+Community packs made for Fable (Respository here: https://github.com/ker0olos/fable)
 
 Thanks ker0olos for helping with debugging.
