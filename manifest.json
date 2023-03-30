@@ -1,8 +1,8 @@
 {
   "$schema": "https://fable.deno.dev/schema.json",
-  "id": "immortalpack1",
-  "title": "OC Expansion 1",
-  "description": "Character expansion pack.",
+  "id": "immortalcore",
+  "title": "Immortal Pack (Core)",
+  "description": "**Core pack required for all of Immortal's packs.**",
   "author": "Immortal",
   "image": "",
   "url": "https://github.com/ImmortalWay/Packs/",
@@ -10,10 +10,9 @@
     "new": [{
       "id": "immortal-core",
       "title": {
-        "english": "Media"
-      },
-      "description": "Core for Immortal's OCs.",
-      "type": "ANIME"
+        "english": "Immortal-Core"},
+      "description": "Core Pack for Immortal's OCs.",
+      "type": "OVA"
     }]
   },
   "characters": {
@@ -22,7 +21,7 @@
       "name": {"english": "Template"},
       "gender": "Stick Figure",
       "popularity": 1000,
-      "description": "Character #1: Template (Immortal's Expansion Pack.)",
+      "description": "**Character #1:** Template (Immortal's Expansion Pack.)",
       "images": [{"url": "https://i.imgur.com/1iYCAvl.png"}]
     }]
   }
