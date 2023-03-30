@@ -1,7 +1,7 @@
 {
 "$schema": "https://fable.deno.dev/schema.json",
 {
-"id": "ImmortalPack1",
+"id": "immortalpack1",
 "title": "OC Expansion 1",
   "description": "Character expansion pack.",
   "author": "Immortal",
@@ -10,9 +10,9 @@
 },
 "characters": {
   "new": [{
-    "id": "Test",
+    "id": "test",
     "name": "Test.",
-    "gender": "Test",
+    "gender": "test",
     "popularity": "1000",
     "description": "Test.",
       "url": ""
