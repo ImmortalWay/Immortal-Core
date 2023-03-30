@@ -1,5 +1,5 @@
 # Fable Packs:
-⚙️**Immortal-Core is required for all packs.**⚙️
+:gear:**Immortal-Core is required for all packs.**:gear:
 - **Immortal-Core:** *Serves as the foundation for my packs and adds 1 character.*
 
 ## Credits:
