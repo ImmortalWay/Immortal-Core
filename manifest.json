@@ -4,17 +4,16 @@
   "title": "OC Expansion 1",
   "description": "Character expansion pack.",
   "author": "Immortal",
-  "images": "",
+  "image": "",
   "url": "https://github.com/ImmortalWay/Packs/",
   "characters": {
       "new": [{
           "id": "test",
           "name": 
           {"english": "test"}
-          "gender": "test",
+          ,"gender": "test",
           "popularity": 1000,
           "description": "Test.",
-          "url": "https://i.imgur.com/1iYCAvl.png"
-      }]
+        "images": [{"url": "https://i.imgur.com/1iYCAvl.png"}]
   }
 }
