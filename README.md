@@ -4,4 +4,4 @@
 # Credits:
 Thanks [ker0olos](https://github.com/ker0olos) for helping with debugging!
 
-[Character packs for Fable.](https://github.com/ker0olos/fable)  
+_[Character packs for Fable.](https://github.com/ker0olos/fable)_
