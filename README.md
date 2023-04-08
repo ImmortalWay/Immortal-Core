@@ -3,7 +3,7 @@
 
 _Character packs for Fable._
 
-![Fable Packs Banner](https://i.imgur.com/NWN05wc.png)
+![Fable Packs Banner](https://i.imgur.com/JCY0CHu.png)
 
 ## 🔥 Packs
 
