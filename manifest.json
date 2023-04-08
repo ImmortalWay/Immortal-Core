@@ -6,10 +6,10 @@
   "author": "Immortal",
   "image": "https://i.imgur.com/2U27yZ0.png",
   "url": "https://github.com/ImmortalWay/Packs/tree/main/Immortal-Core",
-  "media.new": [
+  "media": [
     {
       "id": "immortal",
-      "title.english": "Immortal",
+      "title": { "english": "Immortal" },
       "description": "Immortal Pack Core.",
       "type": "ANIME",
       "format": "ONA",
@@ -22,7 +22,7 @@
     "new": [
       {
         "id": "bob",
-        "name.english": "Bob",
+        "name": { "english": "Bob" },
         "gender": "Undetermined",
         "popularity": 1000,
         "description": "A stick figure for testing purposes.",
