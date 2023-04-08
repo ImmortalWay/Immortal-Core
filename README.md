@@ -1,8 +1,13 @@
+
 ## [Fable](https://github.com/ker0olos/fable) Packs: 
-- **Immortal-Core:** *Serves as the foundation for my packs.*
-- **Pack-1:** *Builds off the core, with the introduction of new characters.*
-https://github.com/ImmortalWay/Pack1
+
+_Character packs for Fable._
+
+![Fable Packs Banner](https://i.imgur.com/NWN05wc.png)
+
+## 🔥 Packs
+
+* [⚔️ Pack 1](https://github.com/ImmortalWay/Pack1) - 
 
 ### Credits:
-Thanks @ker0olos for helping with debugging!
-
+Thanks [ker0olos](https://github.com/ker0olos) for helping with debugging!
