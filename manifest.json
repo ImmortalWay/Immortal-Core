@@ -1,7 +1,7 @@
 {
   "$schema": "https://fable.deno.dev/schema.json",
-  "id": "ImmortalCore",
-  "title": "immortal-core",
+  "id": "immortalcore",
+  "title": "Immortal-Core",
   "description": "Immortal Pack Core.",
   "author": "",
   "image": "https://i.imgur.com/2U27yZ0.png",
