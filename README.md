@@ -4,7 +4,7 @@
 [Fable Character Packs.](https://github.com/ker0olos/fable)  
 
 # Packs:
-[Pack 1](https://github.com/ImmortalWay/Pack1) - 
+[Pack 1: Stuff](https://github.com/ImmortalWay/Pack1) - 
 
-Credits:
+# Credits:
 Thanks [ker0olos](https://github.com/ker0olos) for helping with debugging!
