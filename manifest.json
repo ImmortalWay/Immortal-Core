@@ -6,28 +6,38 @@
   "author": "Immortal",
   "image": "https://i.imgur.com/2U27yZ0.png",
   "url": "https://github.com/ImmortalWay/Packs/tree/main/Immortal-Core",
-  "media": [
-    {
-      "id": "immortal",
-      "title": { "english": "Immortal" },
-      "description": "Immortal Pack Core.",
-      "type": "ANIME",
-      "format": "ONA",
-      "images": [
-        { "url": "https://i.imgur.com/2U27yZ0.png" }
-      ]
-    }
-  ],
+  "media": {
+    "new": [
+      {
+        "id": "immortal",
+        "title": {
+          "english": "Immortal"
+        },
+        "description": "Immortal Pack Core.",
+        "type": "ANIME",
+        "format": "ONA",
+        "images": [
+          {
+            "url": "https://i.imgur.com/2U27yZ0.png"
+          }
+        ]
+      }
+    ]
+  },
   "characters": {
     "new": [
       {
         "id": "bob",
-        "name": { "english": "Bob" },
+        "name": {
+          "english": "Bob"
+        },
         "gender": "Undetermined",
         "popularity": 1000,
         "description": "A stick figure for testing purposes.",
         "images": [
-          { "url": "https://i.imgur.com/1iYCAvl.png" }
+          {
+            "url": "https://i.imgur.com/1iYCAvl.png"
+          }
         ]
       }
     ]
