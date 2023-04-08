@@ -13,7 +13,7 @@
         "title": {
           "english": "Immortal"
         },
-        "description": "Immortal Pack Core.",
+        "description": "Immortal's Characters.",
         "type": "ANIME",
         "format": "ONA",
         "images": [
@@ -27,16 +27,16 @@
   "characters": {
     "new": [
       {
-        "id": "bob",
+        "id": "1",
         "name": {
-          "english": "Bob"
+          "english": "Emily"
         },
-        "gender": "Undetermined",
+        "gender": "Female",
         "popularity": 1000,
-        "description": "A stick figure for testing purposes.",
+        "description": "Soldier girl.",
         "images": [
           {
-            "url": "https://i.imgur.com/1iYCAvl.png"
+            "url": "https://i.imgur.com/2JEGWUs.png"
           }
         ]
       }
